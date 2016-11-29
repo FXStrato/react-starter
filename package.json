@@ -1,7 +1,7 @@
 {
-    "name": "INFO370",
-    "author": "Jeff Zhong",
-    "homepage": "https://fxstrato.github.io/projects/info370/build",
+    "name": "%PROJECTNAME%",
+    "author": "%YOURNAME%",
+    "homepage": "%BASEURL%",
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
